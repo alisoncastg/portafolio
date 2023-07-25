@@ -29,6 +29,8 @@ En este caso, se realizó nuestro portafolio, que incluye varios proyectos reali
 <img src="images/portafolio.png">
 <img src="images/portafolio1.png">
 
+Puedes entrar a ver el demo en este vínculo: https://aesthetic-llama-1dfc2c.netlify.app/
+
 ## Tecnologías utilizadas
 
 <!--Para el proyecto-->
