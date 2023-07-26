@@ -27,8 +27,8 @@ El principal objetivo de la realización de este proyecto es demostrar los conoc
 En este caso, se realizó nuestro portafolio, que incluye varios proyectos realizados por nosotras.
 
 <img src="images/portafolio.png">
-<img src="images/portafolio1.png">
 <img src="images/portafolio2.png">
+<img src="images/portafolio1.png">
 
 Puedes entrar a ver el demo en este vínculo: https://aesthetic-llama-1dfc2c.netlify.app/
 
