@@ -28,6 +28,7 @@ En este caso, se realizó nuestro portafolio, que incluye varios proyectos reali
 
 <img src="images/portafolio.png">
 <img src="images/portafolio1.png">
+<img src="images/portafolio2.png">
 
 Puedes entrar a ver el demo en este vínculo: https://aesthetic-llama-1dfc2c.netlify.app/
 
@@ -49,5 +50,5 @@ El texto de la página web está escrito en español, sin embargo las clases rel
 
 ## Contacto
 
-Desarrollado en Tecnolochicas PRO Summer Camp por [Alison Castillo](Link)
+Desarrollado en Tecnolochicas PRO Summer Camp por [Alison Castillo](https://www.linkedin.com/in/alisoncastg/)https://www.linkedin.com/in/alisoncastg/)
 
