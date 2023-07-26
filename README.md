@@ -50,5 +50,5 @@ El texto de la página web está escrito en español, sin embargo las clases rel
 
 ## Contacto
 
-Desarrollado en Tecnolochicas PRO Summer Camp por [Alison Castillo](https://www.linkedin.com/in/alisoncastg/)https://www.linkedin.com/in/alisoncastg/)
+Desarrollado en Tecnolochicas PRO Summer Camp por [Alison Castillo](https://www.linkedin.com/in/alisoncastg/)
 
